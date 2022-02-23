@@ -39,7 +39,7 @@ h4{font-size: 30px;
 
 .orange{
     text-decoration: none;
-    background-image: linear-gradient(red, rgb(150, 29, 13));
+    background-image: linear-gradient(red, orangered);
     color: white;
     padding: 5px;
     border-radius: 5px;
@@ -74,7 +74,7 @@ h2{
     width: 100px;
 }
 .box{
-    
+    border-radius: 15px;
     margin: 30px;
     padding: 10px;
     

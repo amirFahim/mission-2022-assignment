@@ -1,0 +1,129 @@
+body{background-color: rgb(245, 242, 238);
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+   
+}
+#intro{
+    display: flex;
+  
+    
+
+}
+.border-margin
+{
+    margin: 15px;
+}
+.half-width{
+   
+    width: 30%;
+    text-align: left;
+    padding: 150px;
+    
+  
+   
+}
+p{
+    font-size: 18px;
+}
+.half-width img{
+    width: 80%;
+    
+    
+}
+h1{
+    font-size: 40px;
+}
+h4{font-size: 30px;
+    font-family: 'Pacifico', cursive;}
+
+
+.orange{
+    text-decoration: none;
+    background-image: linear-gradient(red, rgb(150, 29, 13));
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+
+}
+#colore-text{
+    color: orange;
+}
+.colored-border{
+    border-left: 4px solid orangered;
+    margin-left: 0%;
+    font-size: 30px;
+}
+p{
+    text-align: justify;
+}
+#blue{
+    color: blue;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+.ilu-flex{
+    display: flex;
+    margin: 100px;
+}
+.ilu-img{
+    width: 100px;
+}
+.box{
+    
+    margin: 30px;
+    padding: 10px;
+    
+    
+}
+.box p{
+    font-size: 15px;
+}
+#white-box{
+    background-color: rgb(223, 241, 248)
+}
+
+
+
+#blue-box{
+    background-color: rgba(241, 222, 225, 0.857)
+}
+#sky-box{
+    background-color: rgba(247, 205, 151, 0.7);
+}
+.middile-part{
+    display: flex;
+}
+#round-background{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 180px;
+    background-position-x: 60px;
+    background-position-y: 200px;
+}
+#btoom-background{ 
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position-x: 400px;
+    background-position-y: 400px;
+}
+.footer-section{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  
+    
+}
+#year{
+    color: brown;
+}
+#gray{
+    color: gray;
+    font-size: 13px;
+}
